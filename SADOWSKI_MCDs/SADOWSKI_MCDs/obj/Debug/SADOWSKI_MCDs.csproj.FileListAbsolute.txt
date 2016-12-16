@@ -26,3 +26,5 @@ D:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\S
 D:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.csproj.GenerateResource.Cache
 D:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.NouvelUtilisateur.resources
 E:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.NouvelUtilisateur.resources
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\bin\Debug\SADOWSKI_MCDs.exe.config
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.exe
