@@ -110,11 +110,12 @@
             this.aProposToolStripMenuItem.Name = "aProposToolStripMenuItem";
             this.aProposToolStripMenuItem.Size = new System.Drawing.Size(24, 20);
             this.aProposToolStripMenuItem.Text = "?";
+            this.aProposToolStripMenuItem.Click += new System.EventHandler(this.aProposToolStripMenuItem_Click);
             // 
             // aProposToolStripMenuItem1
             // 
             this.aProposToolStripMenuItem1.Name = "aProposToolStripMenuItem1";
-            this.aProposToolStripMenuItem1.Size = new System.Drawing.Size(122, 22);
+            this.aProposToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
             this.aProposToolStripMenuItem1.Text = "A propos";
             this.aProposToolStripMenuItem1.Click += new System.EventHandler(this.aProposToolStripMenuItem1_Click);
             // 

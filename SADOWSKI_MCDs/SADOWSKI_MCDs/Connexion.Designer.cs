@@ -45,6 +45,7 @@
             this.label1.Size = new System.Drawing.Size(62, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Identifiant : ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -54,6 +55,7 @@
             this.label2.Size = new System.Drawing.Size(62, 13);
             this.label2.TabIndex = 1;
             this.label2.Text = "Identifiant : ";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // tbxIdentifiant
             // 
@@ -61,6 +63,7 @@
             this.tbxIdentifiant.Name = "tbxIdentifiant";
             this.tbxIdentifiant.Size = new System.Drawing.Size(100, 20);
             this.tbxIdentifiant.TabIndex = 2;
+            this.tbxIdentifiant.TextChanged += new System.EventHandler(this.tbxIdentifiant_TextChanged);
             // 
             // tbxMdp
             // 
@@ -68,6 +71,7 @@
             this.tbxMdp.Name = "tbxMdp";
             this.tbxMdp.Size = new System.Drawing.Size(100, 20);
             this.tbxMdp.TabIndex = 3;
+            this.tbxMdp.TextChanged += new System.EventHandler(this.tbxMdp_TextChanged);
             // 
             // btnOK
             // 
@@ -99,6 +103,7 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Erreur de connexion!";
             this.label3.Visible = false;
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // Connexion
             // 

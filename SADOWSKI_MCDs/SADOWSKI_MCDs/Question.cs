@@ -78,7 +78,7 @@ namespace SADOWSKI_MCDs
 
             while (sqldr.Read())
             {
-                this.Rep.Add();
+               // this.Rep.Add();
                 nb++;
             }
             nb = 0;

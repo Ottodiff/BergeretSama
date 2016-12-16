@@ -120,5 +120,10 @@ namespace SADOWSKI_MCDs
 
             quest.recupererQuestionnaire();
         }
+
+        private void aProposToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

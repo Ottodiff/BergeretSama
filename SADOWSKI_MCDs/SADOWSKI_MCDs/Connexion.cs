@@ -58,5 +58,30 @@ namespace SADOWSKI_MCDs
                 tbxMdp.Focus();
             }
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbxIdentifiant_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbxMdp_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

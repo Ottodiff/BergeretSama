@@ -28,3 +28,15 @@ D:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\S
 E:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.NouvelUtilisateur.resources
 C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\bin\Debug\SADOWSKI_MCDs.exe.config
 C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.exe
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.csprojResolveAssemblyReference.cache
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.Connexion.resources
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.Form1.resources
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.FormAPropos.resources
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.NouvelUtilisateur.resources
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.Properties.Resources.resources
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.csproj.GenerateResource.Cache
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\bin\Debug\SADOWSKI_MCDs.exe
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\bin\Debug\SADOWSKI_MCDs.pdb
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\bin\Debug\System.Data.SQLite.dll
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\bin\Debug\System.Data.SQLite.xml
+C:\Users\SADOWSKIC_INFO\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.pdb
