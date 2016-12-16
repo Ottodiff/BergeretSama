@@ -75,8 +75,7 @@ namespace SADOWSKI_MCDs
             SQLiteCommand cmd = new SQLiteCommand(CommandText, sqlconnection);
             cmd.ExecuteNonQuery();
 
-            sqlconnection.Close();
-            
+            sqlconnection.Close();            
         }
     }
 }

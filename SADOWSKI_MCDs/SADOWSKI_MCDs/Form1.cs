@@ -8,7 +8,7 @@ namespace SADOWSKI_MCDs
     public partial class Form1 : Form
     {
         Connexion co = new Connexion();
-        NouvelUtilisateur nu = new NouvelUtilisateur();
+        NouvelUtilisateur nu = new NouvelUtilisateur();        
 
         private string _idQuestionnaire;
 
