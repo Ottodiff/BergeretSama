@@ -26,3 +26,12 @@ D:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\S
 D:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.csproj.GenerateResource.Cache
 D:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.NouvelUtilisateur.resources
 E:\ecole\4 annee\vendredi apresmidi M306\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.NouvelUtilisateur.resources
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\bin\Debug\SADOWSKI_MCDs.exe.config
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.exe
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.csprojResolveAssemblyReference.cache
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.Connexion.resources
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.Form1.resources
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.FormAPropos.resources
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.NouvelUtilisateur.resources
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.Properties.Resources.resources
+C:\Users\Christophe\Documents\GitHub\BergeretSama\SADOWSKI_MCDs\SADOWSKI_MCDs\obj\Debug\SADOWSKI_MCDs.csproj.GenerateResource.Cache
